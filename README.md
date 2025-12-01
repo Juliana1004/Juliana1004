@@ -41,8 +41,6 @@ Actualmente construyendo mis proyectos y aprendiendo tecnologías que me permita
 
 ---
 
-## Contacto
-
 Si deseas colaborar conmigo en algún proyecto o tienes una recomendación, puedes encontrarme aquí:
 
 - Gmail: **julianaperez@gmail.com**
