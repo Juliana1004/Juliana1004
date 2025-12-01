@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Juliana Pérez</h1>
 
 
